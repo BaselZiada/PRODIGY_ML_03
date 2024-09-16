@@ -1,3 +1,31 @@
+![1723190055120](https://github.com/user-attachments/assets/543fc028-bbe1-41e3-8e87-ea3e758d21e5)
+
+# MACHINE LEARNING INTERNSHIP
+
+# Developed By_ Basel Ziada (Beso)
+## Task3_Cat And Dog Image Classification Using SVM 
+### One of the main advantages of using SVMs for image classification is that they can effectively handle high-dimensional data, such as images. Additionally, SVMs are less prone to overfitting than other algorithms such as neural networks.
+
+### In machine learning where the model is trained by input data and expected output data.
+
+  To create such a model, it is necessary to go through the following phases:
+  
+* Import required libraries
+* Load the image and convert it to a dataframe.
+* separate input features and targets.
+* Split train and test value.
+* Build and train the model
+* Model evaluation.
+* Prediction
+
+<a href="https://www.kaggle.com/c/dogs-vs-cats/data">Dataset Kaggle Link</a>
+
+
+
+
+
+
+
 # Cats vs Dogs Classification using SVM
 ### visualize cat images
 
